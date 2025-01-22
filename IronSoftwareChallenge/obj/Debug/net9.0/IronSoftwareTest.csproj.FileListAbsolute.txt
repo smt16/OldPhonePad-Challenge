@@ -1,0 +1,14 @@
+/Users/samtoguri/Documents/c#/IronSoftwareTest/bin/Debug/net9.0/IronSoftwareTest
+/Users/samtoguri/Documents/c#/IronSoftwareTest/bin/Debug/net9.0/IronSoftwareTest.deps.json
+/Users/samtoguri/Documents/c#/IronSoftwareTest/bin/Debug/net9.0/IronSoftwareTest.runtimeconfig.json
+/Users/samtoguri/Documents/c#/IronSoftwareTest/bin/Debug/net9.0/IronSoftwareTest.dll
+/Users/samtoguri/Documents/c#/IronSoftwareTest/bin/Debug/net9.0/IronSoftwareTest.pdb
+/Users/samtoguri/Documents/c#/IronSoftwareTest/obj/Debug/net9.0/IronSoftwareTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samtoguri/Documents/c#/IronSoftwareTest/obj/Debug/net9.0/IronSoftwareTest.AssemblyInfoInputs.cache
+/Users/samtoguri/Documents/c#/IronSoftwareTest/obj/Debug/net9.0/IronSoftwareTest.AssemblyInfo.cs
+/Users/samtoguri/Documents/c#/IronSoftwareTest/obj/Debug/net9.0/IronSoftwareTest.csproj.CoreCompileInputs.cache
+/Users/samtoguri/Documents/c#/IronSoftwareTest/obj/Debug/net9.0/IronSoftwareTest.dll
+/Users/samtoguri/Documents/c#/IronSoftwareTest/obj/Debug/net9.0/refint/IronSoftwareTest.dll
+/Users/samtoguri/Documents/c#/IronSoftwareTest/obj/Debug/net9.0/IronSoftwareTest.pdb
+/Users/samtoguri/Documents/c#/IronSoftwareTest/obj/Debug/net9.0/IronSoftwareTest.genruntimeconfig.cache
+/Users/samtoguri/Documents/c#/IronSoftwareTest/obj/Debug/net9.0/ref/IronSoftwareTest.dll

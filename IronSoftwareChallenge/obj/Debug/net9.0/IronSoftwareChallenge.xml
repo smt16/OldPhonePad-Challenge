@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>IronSoftwareChallenge</name>
+    </assembly>
+    <members>
+        <member name="T:IronSoftwareChallenge.OldPhonePad">
+            <summary>
+            Class <c>OldPhonePad</c> converts the input on an old phone into a human readable message
+            </summary>
+            <param name="input"></param>
+        </member>
+        <member name="M:IronSoftwareChallenge.OldPhonePad.#ctor(System.String)">
+            <summary>
+            Class <c>OldPhonePad</c> converts the input on an old phone into a human readable message
+            </summary>
+            <param name="input"></param>
+        </member>
+        <member name="M:IronSoftwareChallenge.OldPhonePad.ConvertInput">
+            <summary>
+            Method <c>ConvertInput</c> converts the input into the `old phone pad` into the human readable message
+            </summary>
+            <returns>The corresponding message based on input</returns>
+            <exception cref="T:System.ArgumentException"></exception>
+        </member>
+        <member name="M:IronSoftwareChallenge.OldPhonePad.BuildOutputString">
+            <summary>
+            Method <c>BuildOutputString</c> uses the <c>inputMapping</c> property to generate the final message string
+            </summary>
+            <returns>The fully converted message, from numeric keypad input to a human readable string</returns>
+        </member>
+        <member name="M:IronSoftwareChallenge.OldPhonePad.BuildInputParts(System.Char[])">
+            <summary>
+            Method <c>BuildInputParts</c> splits the user inputted string up into its constituent character representations
+            </summary>
+            <param name="inputChars">char array of the input string</param>
+            <returns>string array containing the individual character representations e.g. ["22", "3", "444"]</returns>
+        </member>
+    </members>
+</doc>
