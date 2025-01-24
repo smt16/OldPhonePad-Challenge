@@ -1,9 +1,3 @@
-# Old phone pad message converter
-
-The solution is contained within the IronSoftwareChallenge project.
-
-Tests can be found in the `Test` project.
-
 ## Challenge specification
 Here is an old phone keypad with alphabetical letters, a backspace key, and a sendbutton.
 
